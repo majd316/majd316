@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Majd Salameh  
 
-<!--
-**majd316/majd316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student**  
+💡 Passionate about coding, learning, and solving real-world problems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- Currently studying **Object-Oriented Programming (OOP)**  
+- Completed several **C++ courses** that helped me develop strong logical and problem-solving skills  
+- Interested in **Networks**, **Software Development**, and **Problem Solving**  
+- Love learning new technologies and improving my coding skills every day  
+
+---
+
+## 💻 Skills
+- **Programming Languages:** C++, Java, Python  
+- **Core Knowledge:** Networking, Data Structures, Algorithms  
+- **Other Skills:** Problem Solving, Debugging, Logical Thinking  
+
+---
+
+## 🚀 Goals
+- Build real-world projects using OOP and modern programming techniques  
+- Deepen my understanding of networking and software architecture  
+- Collaborate on open-source projects to enhance my skills  
+
+---
+
+## 🧩 My Projects
+Here are some of my favorite projects that I’ve worked on:
+
+- 🏦 [**Bank System**](https://github.com/majd316/Bank-extension2):  
+  A C++ banking application that manages clients, transactions, and security features.  
+
+- 🎮 [**Rock Paper Scissors Game**](https://github.com/majd316/Rock_Paper_Scissors-Game):  
+  A simple and fun game built using C++ with clear logic and structure.  
+
+---
+
+## 📫 Contact
+Feel free to connect or collaborate with me!  
+**GitHub:** [majd316](https://github.com/majd316)
+
+---
+
+⭐ *“Code. Learn. Improve. Repeat.”*
