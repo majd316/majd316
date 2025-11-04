@@ -31,7 +31,11 @@
 Here are some of my favorite projects that I’ve worked on:
 
 - 🏦 [**Bank System**](https://github.com/majd316/Bank-extension2):  
-  A C++ banking application that manages clients, transactions, and security features.  
+  A C++ banking application that manages clients, transactions, and security features.
+
+- 💳 [**ATM System**](https://github.com/majd316/ATM-Project):  
+  A console-based C++ project that simulates an ATM, allowing users to log in, withdraw, deposit, and change PINs.  
+
 
 - 🎮 [**Rock Paper Scissors Game**](https://github.com/majd316/Rock_Paper_Scissors-Game):  
   A simple and fun game built using C++ with clear logic and structure.  
